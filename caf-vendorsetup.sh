@@ -9,3 +9,4 @@ add_lunch_combo du_m7vzw-userdebug
 add_lunch_combo du_m8-userdebug
 add_lunch_combo du_oneplus3-userdebug
 add_lunch_combo du_Z00T-userdebug
+add_lunch_combo du_celoxdcm-userdebug
