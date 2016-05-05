@@ -38,3 +38,10 @@ PRODUCT_PACKAGES += \
     libFFmpegExtractor \
     libnamparser
 endif
+
+# Google Keybord
+
+ifneq ($(filter du_celoxdcm,$(TARGET_PRODUCT)),)
+PRODUCT_COPY_FILES +=  \
+   vendor/du/prebuilt/common/apk/LatinImeGoogle/LatinImeGoogle.apk:system/app/LatinImeGoogle/LatinImeGoogle.apk
+endif
