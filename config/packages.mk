@@ -12,8 +12,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Basic \
     CalendarWidget \
+    Chromium \
     DU-About \
     DUCertified \
+    LatinIME \
     LockClock \
     OmniSwitch \
     PhaseBeam
