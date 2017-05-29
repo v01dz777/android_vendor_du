@@ -8,3 +8,4 @@ add_lunch_combo du_pme-userdebug
 add_lunch_combo du_x2-userdebug
 add_lunch_combo du_jfltedcm-userdebug
 add_lunch_combo du_manta-userdebug
+add_lunch_combo du_kltedcm-userdebug
