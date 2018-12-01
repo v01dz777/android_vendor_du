@@ -29,7 +29,7 @@ import (
 )
 
 func init() {
-	android.RegisterModuleType("aosip_generator", GeneratorFactory)
+	android.RegisterModuleType("du_generator", GeneratorFactory)
 
 	pctx.HostBinToolVariable("sboxCmd", "sbox")
 }
